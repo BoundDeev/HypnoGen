@@ -352,6 +352,40 @@
 		{
 			"Name": "ExampleDeviceProfileSelector",
 			"Enabled": false
+		},
+		{
+			"Name": "OpenXR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Android",
+				"HoloLens"
+			]
+		},
+		{
+			"Name": "OculusVR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android"
+			]
+		},
+		{
+			"Name": "OculusAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "SteamController",
+			"Enabled": true
+		},
+		{
+			"Name": "TextToSpeech",
+			"Enabled": true
+		},
+		{
+			"Name": "XRVisualization",
+			"Enabled": true
 		}
 	]
 }
