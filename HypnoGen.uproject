@@ -3,6 +3,13 @@
 	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "HypnoGen",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "AlembicImporter",
@@ -288,14 +295,6 @@
 		},
 		{
 			"Name": "UObjectPlugin",
-			"Enabled": false
-		},
-		{
-			"Name": "VisualStudioCodeSourceCodeAccess",
-			"Enabled": false
-		},
-		{
-			"Name": "VisualStudioSourceCodeAccess",
 			"Enabled": false
 		},
 		{
