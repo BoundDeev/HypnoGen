@@ -385,6 +385,10 @@
 		{
 			"Name": "XRVisualization",
 			"Enabled": true
+		},
+		{
+			"Name": "Metasound",
+			"Enabled": true
 		}
 	]
 }
